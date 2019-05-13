@@ -1,5 +1,5 @@
 # prhoa
-Plum Run HOA website project for <code>Louisville.
+Plum Run HOA website project for CodeLouisville.
 
 I'm building a basic website for my neighborhood's homeowners' association. 
 The purpose of the site is for residents to access the following:
