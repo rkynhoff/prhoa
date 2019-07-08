@@ -5,9 +5,14 @@
     z-index: 1;
     $selector: if($pseudo == 'both', '&:before,&:after', '&:#{$pseudo}'); */
 
-.prhoa {
+.prhoa-plum-edge-bottom {
+  background-image: url(img\Plum_Run_Entrance.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
   background-color: #800080;
   font-family: 'Cambria',"Coda Caption",'IM Fell French Canon SC','Unlock','Fira Sans', sans-serif;
+  color: white;
   margin: 0 0 100px;
   padding: 10px 0 0 5px;
   text-align: left;
